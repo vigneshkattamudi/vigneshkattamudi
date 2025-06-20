@@ -41,7 +41,7 @@ I'm a passionate **DevOps Engineer** with 1 year of experience at **Cognizant** 
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=radical&hide_border=true" alt="Vignesh's GitHub Stats" />
@@ -51,7 +51,7 @@ I'm a passionate **DevOps Engineer** with 1 year of experience at **Cognizant** 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
----
+--- -->
 
 ### 💬 Let's Collaborate
 
@@ -63,7 +63,7 @@ I'm a passionate **DevOps Engineer** with 1 year of experience at **Cognizant** 
 
 - 📍 Newcastle Upon Tyne  
 - 🔗 [LinkedIn](https://linkedin.com/in/vignesh-kattamudi-2353b51b4)  
-- ✉️ Email: [vkattamudi88@gmail.com](mailto:vkattamudi88@gmail.com) *(replace this with your real email)*
+- ✉️ Email: [vkattamudi88@gmail.com](mailto:vkattamudi88@gmail.com)
 
 ---
 
