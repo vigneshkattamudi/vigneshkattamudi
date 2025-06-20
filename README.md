@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Hi%20👋%2C%20I'm%20Vignesh%20Kattamudi!&fontSize=40&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=header&text=Hi%20👋%2C%20I'm%20Vignesh%20Kattamudi!&fontSize=40&fontColor=2c3e50" alt="header"/>
 </p>
 
 <h2 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast | MSc in CS (2025)</h2>
