@@ -90,7 +90,7 @@ Hi there! I'm **Vignesh Kattamudi**, a DevOps Engineer with 1 year of experience
 
 - 🌍 Newcastle Upon Tyne  
 - 📩 Email: [vkattamudi88@gmail.com](mailto:vkattamudi88@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vignesh-kattamudi-2353b51b4](https://linkedin.com/in/vignesh-kattamudi)
+- 💼 LinkedIn: [linkedin.com/in/vignesh-kattamudi](https://linkedin.com/in/vignesh-kattamudi)
 
 ---
 
