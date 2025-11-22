@@ -73,7 +73,9 @@ Hi there! I'm **Vignesh Kattamudi**, a DevOps Engineer with 1 year of experience
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/vigneshkattamudi/vigneshkattamudi/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/vigneshkattamudi/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 
