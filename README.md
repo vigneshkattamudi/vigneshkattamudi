@@ -61,9 +61,9 @@ Hi there! I'm **Vignesh Kattamudi**, a DevOps Engineer with 1 year of experience
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haripalepu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Haripalepu&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripalepu&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&theme=dark&hide_border=false&layout=compact" />
 </div>
 
 ---
