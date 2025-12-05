@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Vignesh Kattamudi**, a dedicated DevOps Engineer with 3+ years of experience building scalable, automated, and cloud-native systems. I hold a **Master’s degree in Computer Science** and specialize in CI/CD pipelines, Infrastructure as Code, container orchestration, and cloud reliability using AWS, Docker, **Kubernetes**, **Terraform**, and Prometheus to deliver secure, efficient, and resilient workflows.  
+I'm **Vignesh Kattamudi**, a dedicated **DevOps Engineer with 3+ years** of experience building scalable, automated, and cloud-native systems. I hold a **Master’s degree in Computer Science** and specialize in CI/CD pipelines, Infrastructure as Code, container orchestration, and cloud reliability using AWS, Docker, **Kubernetes**, **Terraform**, and Prometheus to deliver secure, efficient, and resilient workflows.  
 
 
 I enjoy solving real-world infrastructure challenges, optimizing deployments, and making engineering teams ship faster with confidence.
