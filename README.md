@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=header&text=Hi%20👋%2C%20I'm%20Vignesh%20Kattamudi!&fontSize=24&fontColor=2c3e50" />
 </p>
-
 <h2 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist | MSc in CS (2025)</h2>
-
 <p align="center">
   <a href="https://linkedin.com/in/vignesh-kattamudi-2353b51b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
