@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Vignesh Kattamudi
 
-<h2 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist | MSc in CS (2025)</h2>
+<h2 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist | Master’s in Computer Science</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/vignesh-kattamudi-2353b51b4" target="_blank">
