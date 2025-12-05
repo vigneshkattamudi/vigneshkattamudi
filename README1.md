@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Lingaiahthammisetti/vigneshkattamudi/blob/main/banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/vigneshkattamudi/vigneshkattamudi/blob/main/banner.png" alt="GitHub Banner" width="800"/>
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=header&text=Hi%20👋%2C%20I'm%20Vignesh%20Kattamudi!&fontSize=40&fontColor=2c3e50" alt="header"/>
