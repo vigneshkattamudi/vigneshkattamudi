@@ -2,9 +2,9 @@
   <img src="https://github.com/vigneshkattamudi/vigneshkattamudi/blob/main/banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
-# 👋 Hi, I'm Vignesh Kattamudi
+<h1 align="center">👋 Hi, I'm Vignesh Kattamudi</h1>
 
-<h2 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist | Master’s in Computer Science</h2>
+<h2 align="center">🚀 DevOps Engineer&nbsp;|&nbsp;Cloud & Automation Specialist&nbsp;|&nbsp;Master’s in Computer Science</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/vignesh-kattamudi-2353b51b4" target="_blank">
