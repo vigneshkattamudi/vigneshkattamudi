@@ -94,9 +94,9 @@ I enjoy solving real-world infrastructure challenges, optimizing deployments, an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=vigneshkattamudi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=vigneshkattamudi&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&theme=dark&hide_border=false&layout=compact" />
 </div>
 
 ---
