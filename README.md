@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/vigneshkattamudi/vigneshkattamudi/blob/main/banner.png" alt="GitHub Banner" width="800"/>
 </div>
+
 # 👋 Hi, I'm Vignesh Kattamudi
 
 <h2 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist | MSc in CS (2025)</h2>
