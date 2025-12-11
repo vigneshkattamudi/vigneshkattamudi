@@ -92,17 +92,8 @@ I enjoy solving real-world infrastructure challenges, optimizing deployments, an
 
 ---
 
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
----
-
 ## 📊 GitHub Profile Summary Cards
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight" />
 </p>
@@ -114,7 +105,6 @@ I enjoy solving real-world infrastructure challenges, optimizing deployments, an
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=false&langs_count=12&size_weight=0.5&count_weight=0.5"
   />
 </p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
