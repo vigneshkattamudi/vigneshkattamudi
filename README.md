@@ -94,30 +94,9 @@ I enjoy solving real-world infrastructure challenges, optimizing deployments, an
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkattamudi&theme=tokyonight&hide_border=false" height="165" />
-</p>
-
-### 🗂️ Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" />
-</p>
-
----
-
-## 🏆 GitHub Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshkattamudi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshkattamudi&theme=tokyo-night&hide_border=false" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🧾 GitHub Profile Summary Cards
@@ -125,13 +104,6 @@ I enjoy solving real-world infrastructure challenges, optimizing deployments, an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshkattamudi&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshkattamudi&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vigneshkattamudi&icon=0&color=6" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
