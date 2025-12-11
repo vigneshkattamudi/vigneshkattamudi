@@ -92,18 +92,12 @@ I enjoy solving real-world infrastructure challenges, optimizing deployments, an
 
 ---
 
-## 📊 GitHub Profile Summary Cards
+## 🧾 GitHub Profile Summary Cards
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight" />
-</p>
-
-## 🗂️ Top Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=false&langs_count=12&size_weight=0.5&count_weight=0.5"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshkattamudi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshkattamudi&theme=tokyonight" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
