@@ -102,7 +102,7 @@ I enjoy solving real-world infrastructure challenges, optimizing deployments, an
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=false&langs_count=12&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=false&langs_count=10"
   />
 </p>
 
