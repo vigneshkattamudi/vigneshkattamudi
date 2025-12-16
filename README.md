@@ -1,137 +1,33 @@
 <div align="center">
-  <img src="https://github.com/vigneshkattamudi/vigneshkattamudi/blob/main/banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/vigneshkattamudi/vigneshkattamudi/blob/main/banner.png" alt="GitHub Banner" width="100%"/>
 </div>
 
 <h1 align="center">👋 Hi, I'm Vignesh Kattamudi</h1>
 
-<h2 align="center">🚀 DevOps Engineer&nbsp;|&nbsp;Cloud & Automation Specialist&nbsp;|&nbsp;Master’s in Computer Science</h2>
+<h3 align="center">
+DevOps Engineer • Cloud & Automation Specialist • M.S. in Computer Science
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vignesh-kattamudi-2353b51b4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vkattamudi88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vigneshkattamudi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vigneshkattamudi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Vignesh Kattamudi**, a dedicated **DevOps Engineer** with 3+ years of experience building scalable, automated, and cloud-native systems. I hold a **Master’s degree in Computer Science** and specialize in CI/CD pipelines, Infrastructure as Code, container orchestration, and cloud reliability using AWS, Docker, **Kubernetes**, **Terraform**, and Prometheus to deliver secure, efficient, and resilient workflows.  
+I'm **Vignesh Kattamudi**, a **DevOps Engineer with 3+ years of hands-on experience** designing, automating, and operating **scalable cloud-native systems**.
 
+I hold a **Master’s degree in Computer Science** and specialize in:
+- CI/CD automation
+- Infrastructure as Code (IaC)
+- Containerized & Kubernetes-based platforms
+- Cloud reliability & observability
 
-I enjoy solving real-world infrastructure challenges, optimizing deployments, and making engineering teams ship faster with confidence.
-
----
-
-## 🧠 What I'm Focusing On
-
-- 🔧 Scaling cloud infrastructure on **AWS** (EC2, Lambda, VPC, S3, CloudWatch)
-- 🛠 Building end-to-end CI/CD using **Jenkins**, **GitHub Actions**, and **SonarQube**
-- 📦 Deploying microservices with **Docker** & **Kubernetes**
-- 🏗 Writing reusable **Terraform IaC modules**
-- 📈 Monitoring production systems with **ELK, Prometheus, Grafana**
-
----
-
-## 🧰 Tech Stack
-
-### ☁️ Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🔧 DevOps Tools
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge)
-
-### 📈 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### **1️⃣ Kubernetes Microservices CI/CD**
-- Automated microservice deployments to **EKS**  
-- Integrated **GitHub Actions**, **Helm**, ingress, RBAC, and autoscaling  
-- Implemented end-to-end secure GitOps workflow  
-**Tech:** Kubernetes, Helm, Docker, GitHub Actions, AWS  
-🔗 *Coming soon*
-
----
-
-### **2️⃣ Terraform AWS Infrastructure Module**
-- Developed reusable IaC modules for VPC, EC2, ALB, and RDS  
-- Includes remote backend + workspaces + lifecycle policies  
-**Tech:** Terraform, AWS  
-🔗 *Coming soon*
-
----
-
-### **3️⃣ Centralized Logging & Monitoring Stack**
-- End-to-end observability using **ELK**, **Prometheus**, **Grafana**  
-- Custom dashboards + alert rules + log parsing  
-**Tech:** ELK, Grafana, Prometheus, Docker  
-🔗 *Coming soon*
-
----
-
-## 🧾 GitHub Profile Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshkattamudi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshkattamudi&theme=tokyonight" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/vigneshkattamudi/snake/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🔍 Current Learning Goals
-
-- Kubernetes internals (RBAC, Operators, Helm Charts)
-- Scaling CI/CD pipelines across microservices
-- Enhancing IaC standards with Terraform modules
-- Contributing to open-source DevOps tooling
-
----
-
-## 📫 Contact Me
-
-- 📍 **Location:** Newcastle Upon Tyne  
-- ✉️ **Email:** [vkattamudi88@gmail.com](mailto:vkattamudi88@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/vignesh-kattamudi](https://linkedin.com/in/vignesh-kattamudi)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
-</p>
+My focus is on helping teams **ship faster, safer, and more reliably** through automation and modern DevOps p
