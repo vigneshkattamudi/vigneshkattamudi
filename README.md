@@ -106,9 +106,9 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
     src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
     height="170"
   />
+ <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=vigneshkattamudi&theme=tokyonight&hide_border=true" 
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight"
   />
 </p>
 
