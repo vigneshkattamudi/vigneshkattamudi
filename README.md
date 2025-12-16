@@ -103,27 +103,22 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    height="170"
   />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vigneshkattamudi&theme=tokyonight" 
-    height="160"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshkattamudi&theme=tokyonight" 
-    height="160"
-  />
-</p>
-
-<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=vigneshkattamudi&theme=tokyonight&hide_border=true" 
-    height="160"
+    height="170"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
+</p>
+
 
 
 ---
