@@ -103,12 +103,8 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" 
     height="170"
-  />
- <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight"
   />
 </p>
 
@@ -118,9 +114,6 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
     height="150"
   />
 </p>
-
-
-
 
 ---
 
@@ -145,7 +138,7 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 - 📍 **Location:** Newcastle Upon Tyne  
 - ✉️ **Email:** vkattamudi88@gmail.com  
-- 🔗 **LinkedIn:** linkedin.com/in/vignesh-kattamudi-2353b51b4  
+- 🔗 **LinkedIn:** linkedin.com/in/vignesh-kattamudi
 
 ---
 
