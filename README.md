@@ -107,7 +107,7 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
     height="170"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=vigneshkattamudi&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=vigneshkattamudi&theme=tokyonight&hide_border=true" 
     height="170"
   />
 </p>
@@ -118,6 +118,7 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
     height="150"
   />
 </p>
+
 
 
 
