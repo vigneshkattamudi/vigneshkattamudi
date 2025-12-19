@@ -9,7 +9,7 @@ DevOps Engineer • Cloud & Automation Specialist • M.S. in Computer Science
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vignesh-kattamudi-2353b51b4" target="_blank">
+  <a href="https://linkedin.com/in/vignesh-kattamudi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vkattamudi88@gmail.com">
