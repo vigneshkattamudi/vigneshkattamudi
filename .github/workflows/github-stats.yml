@@ -2,7 +2,7 @@ name: Generate GitHub Stats SVG
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -13,23 +13,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: vigneshkattamudi
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: stats/github-stats.svg
-          theme: tokyonight
-          show_icons: true
+      - name: Create stats folder
+        run: mkdir -p stats
 
-      - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: vigneshkattamudi
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: stats/top-langs.svg
-          theme: tokyonight
-          layout: compact
+      - name: Download GitHub Stats SVG
+        run: |
+          curl -o stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight"
+          curl -o stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight"
 
       - name: Commit and push SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
