@@ -103,21 +103,30 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 <p align="center">
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&theme=tokyonight&hide_border=true&show_icons=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkattamudi&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=true" 
     height="150"
   />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=lvigneshkattamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lvigneshkattamudi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lvigneshkattamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=lvigneshkattamudi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=vigneshkattamudi&icon=0&color=0" 
+  />
+</p>
 
----
 
 ## 🐍 Contribution Graph
 
