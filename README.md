@@ -101,9 +101,7 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 ## 📊 GitHub Stats & Activity
 
-# Test Image
-
-![Test](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Stats](https://github-readme-stats.vercel.app/api?username=vigneshkattamudi)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight)
 
