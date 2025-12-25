@@ -101,8 +101,6 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 ## 📊 GitHub Stats & Activity
 
-## 📊 GitHub Stats & Activity
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vigneshkattamudi&theme=tokyonight)
