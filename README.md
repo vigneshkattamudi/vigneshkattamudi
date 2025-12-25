@@ -100,7 +100,11 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 ---
 
 ## 📊 GitHub Stats & Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=vigneshkattamudi&theme=tokyonight)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vigneshkattamudi&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 🐍 Contribution Graph
@@ -110,6 +114,7 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 </p>
 
 ---
+
 
 ## 📚 Learning & Growth
 
