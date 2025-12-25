@@ -101,35 +101,15 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&theme=tokyonight&hide_border=true&show_icons=true"
-    height="165"
-  />
-</p>
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkattamudi&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=vigneshkattamudi&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkattamudi&layout=compact&theme=tokyonight)
 
 ---
-
-<p align="center">
-  <img
-    src="https://visitcount.itsvg.in/api?id=vigneshkattamudi&icon=0&color=0"
-  />
-</p>
-
 
 
 ## 🐍 Contribution Graph
