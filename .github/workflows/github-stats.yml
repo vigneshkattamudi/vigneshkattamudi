@@ -1,0 +1,38 @@
+name: Generate GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: vigneshkattamudi
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: stats/github-stats.svg
+          theme: tokyonight
+          show_icons: true
+
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: vigneshkattamudi
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: stats/top-langs.svg
+          theme: tokyonight
+          layout: compact
+
+      - name: Commit and push SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub stats SVGs"
+          file_pattern: stats/*.svg
