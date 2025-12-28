@@ -103,7 +103,6 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshkattamudi&theme=tokyonight" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
