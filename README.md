@@ -98,19 +98,12 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 🔗 *Coming soon*
 
 ---
-
 <h2 align="center">⚡ GitHub Activity</h2>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkattamudi
-  &theme=neon
-  &background=0D1117
-  &ring=00E5FF
-  &fire=FF6EC7
-  &currStreakLabel=00E5FF
-  &sideLabels=FFFFFF
-  &dates=8B949E" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshkattamudi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkattamudi&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
