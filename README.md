@@ -102,7 +102,6 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkattamudi&theme=tokyonight" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vigneshkattamudi&theme=tokyonight" />
 </p>
