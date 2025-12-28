@@ -99,11 +99,19 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 
 ---
 
-## 📊 GitHub Stats & Activity
+<h2 align="center">⚡ GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkattamudi
+  &theme=neon
+  &background=0D1117
+  &ring=00E5FF
+  &fire=FF6EC7
+  &currStreakLabel=00E5FF
+  &sideLabels=FFFFFF
+  &dates=8B949E" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
