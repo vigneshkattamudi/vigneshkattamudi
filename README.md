@@ -98,17 +98,10 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 🔗 *Coming soon*
 
 ---
-<h2 align="center">⚡ GitHub Activity</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
-  ?username=vigneshkattamudi
-  &show_icons=true
-  &theme=dark
-  &bg_color=0A0F1C
-  &title_color=00E5FF
-  &icon_color=9D4EDD
-  &text_color=B8C0CC
-  &border_color=00FF9C" height="165"/>
+## 📊 GitHub Stats & Activity 
+
+<p align="center"> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vigneshkattamudi&theme=dark&hide_border=false" /> 
 </p>
 
 
