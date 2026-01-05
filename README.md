@@ -71,33 +71,6 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔹 Kubernetes Microservices CI/CD
-- Automated microservice deployments on **EKS**
-- GitHub Actions + Helm + RBAC + autoscaling
-- Secure, GitOps-style workflow  
-**Tech:** Kubernetes, Docker, Helm, GitHub Actions, AWS  
-🔗 *Coming soon*
-
----
-
-### 🔹 Terraform AWS Infrastructure Modules
-- Modular IaC for VPC, EC2, ALB, RDS
-- Remote backend, workspaces & lifecycle policies  
-**Tech:** Terraform, AWS  
-🔗 *Coming soon*
-
----
-
-### 🔹 Centralized Observability Platform
-- Metrics + logs with **Prometheus, Grafana & ELK**
-- Alerting, dashboards, log parsing  
-**Tech:** Docker, ELK, Prometheus, Grafana  
-🔗 *Coming soon*
-
----
 ## 📊 GitHub Stats & Activity 
 
 <p align="center"> 
