@@ -90,17 +90,6 @@ My focus is on helping teams **ship faster, safer, and more reliably** through a
 </p>
 
 ---
-
-
-## 📚 Learning & Growth
-
-- Kubernetes internals (RBAC, Helm, operators)
-- Scaling CI/CD across microservices
-- Terraform module standardization
-- Open-source DevOps contributions
-
----
-
 ## 📫 Get in Touch
 
 - 📍 **Location:** Newcastle Upon Tyne  
