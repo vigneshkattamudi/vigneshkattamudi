@@ -8,7 +8,7 @@
 <h2 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast | MSc in CS (2025)</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vignesh-kattamudi-2353b51b4" target="_blank">
+  <a href="https://linkedin.com/in/vigneshkattamudi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vkattamudi88@gmail.com">
@@ -91,7 +91,7 @@ Hi there! I'm **Vignesh Kattamudi**, a DevOps Engineer with 1 year of experience
 
 - 🌍 Newcastle Upon Tyne  
 - 📩 Email: [vkattamudi88@gmail.com](mailto:vkattamudi88@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vignesh-kattamudi](https://linkedin.com/in/vignesh-kattamudi)
+- 💼 LinkedIn: [linkedin.com/in/vigneshkattamudi](https://linkedin.com/in/vigneshkattamudi)
 
 ---
 
